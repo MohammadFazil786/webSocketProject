@@ -1,0 +1,23 @@
+You are reading the content from Tutorials Point.
+The express.js is one of the most powerful frameworks of the node.js that works on the upper layer of the http module.
+The main advantage of using express.js server is filtering the incoming requests by clients.
+Want to be a Software Developer or a Working
+Professional looking to enhance your Software Development S
+kills? Then, master the concepts of Full-Stack Development.
+Our Full Stack Development
+- React and Node.js Course
+will help you achieve this quickly.
+Learn everything from F
+ront-End to Back-End Development with hands-on
+Projects and real-world 
+examples. This course
+enables you to build 
+scalable, efficient, dynamic web applications 
+that stand out. Ready to 
+become an expert in Full-Stack? 
+Enroll Now and Start 
+Creating the Future!
+what would happen
+lets see  if something is upper
+we need to get back
+hey man what happened
