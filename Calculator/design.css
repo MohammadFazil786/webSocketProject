@@ -1,0 +1,23 @@
+#mainComponent{
+    position: relative;
+    top: 200px;
+    left: 40%;
+}
+.btnstyle{
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(144, 0, 255);
+    width: 100px;
+    height: 40px;
+    margin: 5px 5px 5px 5px;
+}
+#inputs{
+   padding-left: 40px;
+}
+#scr{
+    width: 300px;
+    height: 75px;
+}
+#screenComponent{
+    margin: 0px 0px 10px 0px;
+}

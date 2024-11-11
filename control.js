@@ -23,6 +23,7 @@ setInterval(()=>{
     else {
         pos += 1;
         box[0].style.left = pos+'px';
+        console.log(new Date().getFullYear().toString()+'\n');
     }
 },100);
 console.log('45');
